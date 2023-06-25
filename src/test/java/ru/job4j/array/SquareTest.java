@@ -2,11 +2,8 @@ package ru.job4j.array;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.jupiter.api.DisplayName;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DisplayName("test for [#33488]")
 public class SquareTest {
 
     @Test
